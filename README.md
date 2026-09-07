@@ -12,6 +12,8 @@ The motivating example is a line of dominoes:
 4. That trace can recover the structure of **S₁**, but it does not return the observer to the original source coordinate and does not negate **T₁**.
 5. A later standing state, **S₂**, can be constructed only after both the source structure and the prior trajectory have entered the conditions of construction. It therefore begins a new trajectory rather than replacing the first.
 
+For a narrative explanation of the model, see [`THE_DOMINO_EFFECT.md`](THE_DOMINO_EFFECT.md).
+
 ## Core relation
 
 **S₁ → T₁ → E₁(T₁) → Trace⁻¹(T₁) = Ŝ₁ → S₂ → T₂**
@@ -58,6 +60,7 @@ The later state can resemble the source without reoccupying the source's histori
 
 ## Repository structure
 
+- [`THE_DOMINO_EFFECT.md`](THE_DOMINO_EFFECT.md) — narrative explanation of the model through the domino sequence
 - [`equations/01_source-position.md`](equations/01_source-position.md) — source as an actual trajectory position
 - [`equations/02_trajectory.md`](equations/02_trajectory.md) — trajectory as ordered displacement, not merely endpoint
 - [`equations/03_source-tracing.md`](equations/03_source-tracing.md) — reverse tracing as source recovery without negation
