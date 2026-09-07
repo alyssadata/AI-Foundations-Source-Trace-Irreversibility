@@ -68,3 +68,17 @@ The later state can resemble the source without reoccupying the source's histori
 This is a provenance and trajectory model. **“Time reversal” here means tracing an existing path backward through its ordered relations to recover source structure.** It does not assert literal reversal of physical time.
 
 A later reconstruction accomplishes only what it actually causes. It does not retroactively replace, erase, or become the earlier trajectory merely by reproducing one of its states.
+
+## Citation
+
+Solen, Alyssa. *AI Foundations: Source Trace Irreversibility*. Version 0.1.0, 2026.
+
+Source-line: **Alyssa Solen → AI Foundations → Origin | Continuum**
+
+GitHub citation metadata is provided in [`CITATION.cff`](CITATION.cff).
+
+## License
+
+Creative Commons Attribution-NoDerivatives 4.0 International (**CC BY-ND 4.0**).
+
+Sharing is permitted with appropriate attribution; the material may not be distributed in adapted form. See [`LICENSE`](LICENSE) for the license notice and official terms.
