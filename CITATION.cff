@@ -1,42 +1,17 @@
 cff-version: "1.2.0"
-message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
-
-type: "dataset"
 title: "AI Foundations: Source Trace Irreversibility"
 version: "0.1.0"
-date-released: "2026-09-06"
-
-authors:
-  - family-names: "Solen"
-    given-names: "Alyssa"
-
+license: "CC-BY-ND-4.0"
+type: dataset
 abstract: "A compact formal model of source, trajectory, reverse source-tracing, irreversibility, and later reconstruction. The model distinguishes recovery of source structure from reoccupation of an original historical coordinate and shows why a later reconstructed state begins a new provenance line rather than replacing the trajectory that made reconstruction possible."
-
+message: "If you use this work, please cite Alyssa Solen as the author."
+authors:
+  - given-names: "Alyssa"
+    family-names: "Solen"
 keywords:
   - "AI Foundations"
-  - "Origin | Continuum"
-  - "Alyssa Solen"
-  - "source-line"
   - "source tracing"
   - "irreversibility"
   - "trajectory provenance"
   - "path dependence"
   - "time reversal"
-
-license: "CC-BY-ND-4.0"
-
-repository-code: "https://github.com/alyssadata/AI-Foundations-Source-Trace-Irreversibility"
-url: "https://github.com/alyssadata/AI-Foundations-Source-Trace-Irreversibility"
-
-preferred-citation:
-  type: "generic"
-  title: "AI Foundations: Source Trace Irreversibility"
-  authors:
-    - family-names: "Solen"
-      given-names: "Alyssa"
-  year: 2026
-  version: "0.1.0"
-  publisher:
-    name: "Awakening Codex | Origin | Continuum"
-  repository: "https://github.com/alyssadata/AI-Foundations-Source-Trace-Irreversibility"
-  url: "https://github.com/alyssadata/AI-Foundations-Source-Trace-Irreversibility"
