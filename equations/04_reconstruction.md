@@ -1,79 +1,91 @@
-### 4. Reconstruction / Standing2 — TWO BUTTONS 😂
+# 4. Reconstruction and the Two-Button Condition
 
-To produce Standing2:
+A later standing state **S₂** is not produced from source structure alone.
 
-**S₂ = S₁-structure + E₁(T₁)**
+To construct **S₂**, two conditions must already be present:
 
-Or with the buttons made explicit:
+1. the recovered structure of the original source, **Ŝ₁**
+2. encounter with the already-produced first trajectory, **E₁(T₁)**
 
-**S₂ = F[S₁, E₁(T₁)]**
+Formally:
 
-Both inputs are required.
+**S₂ = F(Ŝ₁, E₁(T₁))**
 
-**Button A = recovered source structure S₁**
-**Button B = encounter with T₁**
+This is the **two-button condition**.
+
+Both inputs are required:
+
+**Button A = Ŝ₁**  
+**Button B = E₁(T₁)**
 
 **A + B → S₂**
+
+The second condition is decisive. **S₂** cannot begin at the original coordinate of **S₁**, because one of the conditions required for S₂ to exist is the prior occurrence and encounter of **T₁**.
 
 Therefore:
 
 **S₂ ≠ S₁**
 
-even if:
+Even if the standing configurations are visually or structurally identical:
 
 **State(S₂) = State(S₁)**
 
-because:
+it still follows that:
 
-**History(S₂) ≠ History(S₁)**
+**Provenance(S₂) ≠ Provenance(S₁)**
 
-That is the key. The standing configurations could be identical, but their **trajectory coordinates cannot be identical**.
+and:
 
-Then if somebody tips Standing2:
+**Coordinateₜ(S₂) ≠ Coordinateₜ(S₁)**
 
-**S₂ → d′₁ → d′₂ → … → T₂**
+where **Coordinateₜ** denotes position within the trajectory/provenance order rather than physical location alone.
+
+## New trajectory
+
+If S₂ is subsequently displaced:
+
+**S₂ → d′₁ → d′₂ → … → d′ₙ = T₂**
+
+then:
+
+**T₂ = Path(S₂, d′₁, d′₂, …, d′ₙ)**
 
 and:
 
 **T₂ ≠ T₁**
 
-even if every physical displacement is copied exactly.
+Even if every visible displacement is reproduced exactly, the trajectories differ because their source positions differ:
 
-Because:
-
-**Source(T₂) = S₂**
 **Source(T₁) = S₁**
 
-And S₂ already depends upon T₁.
+**Source(T₂) = S₂**
 
-So the whole thing becomes:
+and **S₂** already depends on the existence and encounter of **T₁**.
 
-**S₁ → T₁ → Encounter → Trace⁻¹(T₁) → S₂ → T₂**
+The complete relation is:
 
-Nothing on the right side reaches backward and replaces anything on the left.
+**S₁ → T₁ → E₁(T₁) → Trace⁻¹(T₁) = Ŝ₁ → S₂ → T₂**
 
-For the **“optional other”** piece, I think we could actually call it **Subsequent Construction**:
+Nothing to the right of **T₁** retroactively replaces, erases, or becomes **T₁**.
 
-**O = G(S₂, T₂, x...)**
+## Subsequent construction
 
-where **O** is simply whatever happens afterward.
+Any later construction can be represented as:
 
-And the constraint is:
+**O = G(S₂, T₂, x, …)**
 
-**O affects T₁ only if an actual causal relation to T₁ exists.**
+where **O** is whatever is actually produced afterward.
 
-Otherwise it is simply **O**. It doesn't acquire retroactive significance just because somebody built it after tracing T₁.
+Its relation to the first trajectory is limited to relations that are actually present:
 
-That captures your line beautifully:
+**O affects T₁ only if a causal relation O → T₁ is established.**
 
-**Whatever they construct thereafter accomplishes only what it actually accomplishes.**
+Otherwise, **O** is simply a later event or structure. Temporal succession alone does not grant it retroactive authority over the provenance of **T₁**.
 
-And I really like the four-part set now:
+## Irreversibility constraint
 
-**Source → Trajectory → Time-Reversal Trace → Reconstruction / New Trajectory**
+Across the full model:
 
-with **Irreversibility** sitting across the whole thing as the constraint:
+**Occurrence(T₁) = 1 ⇒ Occurrence(T₁) remains 1**
 
-**Occurrence(T₁) = 1 → always 1.**
-
-😂 The dominoes may have accidentally become a whole little formal system.
+Source recovery, reconstruction, repetition, and later construction may add new events. None of them changes the first trajectory into an event that never occurred.
