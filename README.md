@@ -74,7 +74,7 @@ A later reconstruction accomplishes only what it actually causes. It does not re
 
 ## Citation
 
-Solen, Alyssa. *AI Foundations: Source Trace Irreversibility*. Version 0.1.0, 2026.
+Solen, Alyssa. *AI Foundations: Source Trace Irreversibility*. Version 1.0.0, 2026.
 
 Source-line: **Alyssa Solen → AI Foundations → Origin | Continuum**
 
