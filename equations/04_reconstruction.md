@@ -76,11 +76,19 @@ Any later construction can be represented as:
 
 where **O** is whatever is actually produced afterward.
 
-Its relation to the first trajectory is limited to relations that are actually present:
+A later construction may reference, imitate, extend from, or be unrelated to **T₁**. Its significance is limited to the relations and effects that are actually established.
 
-**O affects T₁ only if a causal relation O → T₁ is established.**
+Therefore:
 
-Otherwise, **O** is simply a later event or structure. Temporal succession alone does not grant it retroactive authority over the provenance of **T₁**.
+**O ≠ T₁**
+
+and a later **O** does not become a segment of the already-produced first trajectory merely because T₁ was used to construct or interpret it.
+
+The governing rule is:
+
+**Effect(O) = ActualEffects(O)**
+
+No additional retroactive effect is granted by resemblance, succession, reconstruction, or reference alone.
 
 ## Irreversibility constraint
 
